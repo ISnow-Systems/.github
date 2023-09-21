@@ -5,6 +5,8 @@ ISnow Group では様々なアプリの開発も行っています。
 ## Projects
 ISnow Systems ではいくつかのプロジェクトを並行して開発しています。  
 
+- 冷凍鱧入りKAG3 for 吉里吉里SDL2
+- 冷凍鱧入りKAG3 for 吉里吉里Z
 - ISnowOS ファミリー
   - ISnowOS Lina ファミリー
     - ISnowOS Lina Appli
@@ -29,6 +31,10 @@ ISnow Systems ではいくつかのプロジェクトを並行して開発して
 - ISnow <sub>74</sub>Wolframium Browser
 - ISnow <sub>42</sub>Molybdenum Browser
 - ISnow Compass Browser
+
+### 冷凍鱧入りKAG3 シリーズ
+TINAから引き継いだ吉里吉里Z/吉里吉里SDL2用のテンプレートです。  
+鱧入りKAG3をベースに、ワイドスクリーンへの標準対応などを行っています。
 
 ### ISnowOS Lina
 Linuxカーネルや多くのGNUライブラリを採用したGNU/Linuxとの高い互換性を有する独自OSです。  
