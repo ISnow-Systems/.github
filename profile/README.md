@@ -64,9 +64,8 @@ Copperで生成されたDOMの操作や、単独で使用してサーバーサ�
 TypeScriptの直接実行機能や、Copperと合わせてWebAssemblyの実行が出来る様にする予定です。
 
 ### Shinecat Browser
-Shinecat ウェブブラウザはMozilla FirefoxおよびAblaze Floorpをベースとした新しいブラウザです。  
-Floorpの機能に加え、ISnow Browser Syncを使用した4ブラウザ同期機能を実装しています。  
-また、延長サポートチャネルを使用するFloorpとは異なり、Firefoxのリリースチャネルを使用して開発していますので、最新のブラウザ機能を使用できます。
+Shinecat ウェブブラウザはMozilla Firefoxをベースとした新しいブラウザです。  
+Firefoxの機能に加え、ISnow Browser Syncを使用した4ブラウザ同期機能を実装しています。  
 
 ### <sub>74</sub>Wolframium Browser
 <sub>74</sub>Wolframium BrowserはChromiumベースのブラウザです。  
